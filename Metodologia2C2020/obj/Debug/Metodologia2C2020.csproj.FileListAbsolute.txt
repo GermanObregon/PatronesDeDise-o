@@ -1,0 +1,7 @@
+C:\Users\German\source\repos\Metodologia2C2020\Metodologia2C2020\obj\Debug\Metodologia2C2020.csprojResolveAssemblyReference.cache
+C:\Users\German\source\repos\Metodologia2C2020\Metodologia2C2020\obj\Debug\Metodologia2C2020.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\Metodologia2C2020\Metodologia2C2020\bin\Debug\Metodologia2C2020.exe.config
+C:\Users\German\source\repos\Metodologia2C2020\Metodologia2C2020\bin\Debug\Metodologia2C2020.exe
+C:\Users\German\source\repos\Metodologia2C2020\Metodologia2C2020\bin\Debug\Metodologia2C2020.pdb
+C:\Users\German\source\repos\Metodologia2C2020\Metodologia2C2020\obj\Debug\Metodologia2C2020.exe
+C:\Users\German\source\repos\Metodologia2C2020\Metodologia2C2020\obj\Debug\Metodologia2C2020.pdb

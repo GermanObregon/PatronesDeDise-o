@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodologia2C2020", "Metodologia2C2020\Metodologia2C2020.csproj", "{B39BB7E7-D1A0-4B66-8FBB-3904114FD777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39BB7E7-D1A0-4B66-8FBB-3904114FD777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39BB7E7-D1A0-4B66-8FBB-3904114FD777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39BB7E7-D1A0-4B66-8FBB-3904114FD777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39BB7E7-D1A0-4B66-8FBB-3904114FD777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51329BE3-5145-44A4-BA25-6BF8DED43BE5}
+	EndGlobalSection
+EndGlobal
